@@ -71,14 +71,6 @@ body
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-@keyframes exitiumglow {
-  from {
-    text-shadow: 0 0 10px 15px #00c0ff;
-  }
-  to {
-    text-shadow: 0 0 10px 5px #00c0ff;
-  }
-}
 @keyframes textglow {
   from {
     text-shadow: 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 30px #00c0ff, 0 0 40px #00c0ff;
