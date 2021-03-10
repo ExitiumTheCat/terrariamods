@@ -15,27 +15,6 @@ body
   font-size: 40px;
   animation: textglow 5s ease-in-out infinite alternate;
 }
-.thetext
-{
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 24px;
-  animation: textglow 5s ease-in-out infinite alternate;
-}
-.horizontalgap
-{
-  padding: 128px;
-}
-.projects
-{
-  padding: 20px;
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 32px;
-  animation: textglow 5s ease-in-out infinite alternate;
-}
 .contacttag {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
@@ -44,7 +23,7 @@ body
   font-size: 20px;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.contactme:link {
+.list:link {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -52,11 +31,11 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 32px;
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.contactme:visited {
+.list:visited {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -64,11 +43,11 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 32px;
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.contactme:hover {
+.list:hover {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -76,11 +55,11 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 32px;
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.contactme:active {
+.list:active {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -88,7 +67,7 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 32px;
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
