@@ -15,27 +15,19 @@ body
   font-size: 40px;
   animation: textglow 5s ease-in-out infinite alternate;
 }
-.contacttag {
+.elist:link {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   text-decorations: none;
   font-size: 20px;
-  animation: textglow 2s ease-in-out infinite alternate;
-}
-.list:link {
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  text-decorations: none;
-  font-size: 32px;
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.list:visited {
+.elist:visited {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -43,11 +35,11 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 32px;
+  font-size: 20px;
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.list:hover {
+.elist:hover {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -55,11 +47,11 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 32px;
+  font-size: 20px;
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.list:active {
+.elist:active {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -67,7 +59,7 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 32px;
+  font-size: 20px;
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
