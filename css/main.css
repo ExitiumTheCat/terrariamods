@@ -15,7 +15,7 @@ body
   font-size: 40px;
   animation: textglow 5s ease-in-out infinite alternate;
 }
-a.elist:link {
+.elist:link {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -27,7 +27,7 @@ a.elist:link {
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-a.elist:visited {
+.elist:visited {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -39,7 +39,7 @@ a.elist:visited {
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-a.elist:hover {
+.elist:hover {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -51,7 +51,7 @@ a.elist:hover {
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-a.elist:active {
+.elist:active {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
