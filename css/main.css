@@ -23,7 +23,7 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
@@ -35,7 +35,7 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
@@ -47,7 +47,7 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 30px;
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
@@ -59,7 +59,7 @@ body
   margin-right: auto;
   text-align: center;
   text-decorations: none;
-  font-size: 20px;
+  font-size: 30px;
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
