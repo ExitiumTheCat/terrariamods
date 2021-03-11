@@ -15,7 +15,7 @@ body
   font-size: 40px;
   animation: textglow 5s ease-in-out infinite alternate;
 }
-.elist {
+a:link {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -27,7 +27,7 @@ body
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.elist:link {
+a:visited {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -39,19 +39,7 @@ body
   color: white;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.elist:visited {
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  text-decorations: none;
-  font-size: 20px;
-  color: white;
-  animation: textglow 2s ease-in-out infinite alternate;
-}
-.elist:hover {
+a:hover {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -63,7 +51,7 @@ body
   color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
-.elist:active {
+a:active {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
