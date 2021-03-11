@@ -15,9 +15,7 @@ body
   font-size: 40px;
   animation: textglow 5s ease-in-out infinite alternate;
 }
-untoldlegends {
-  padding-right: 30px;
-  padding-left: 30px;
+#untoldlegends {
   font-family: Noto Sans, sans-serif;
   font-style: normal;
   font-weight: 400;
