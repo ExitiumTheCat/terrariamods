@@ -15,7 +15,7 @@ body
   font-size: 40px;
   animation: textglow 5s ease-in-out infinite alternate;
 }
-.titles:link {
+.titles {
   padding-right: 30px;
   padding-left: 30px;
   font-family: Noto Sans, sans-serif;
@@ -27,48 +27,6 @@ body
   text-decorations: none;
   font-size: 30px;
   color: white;
-  animation: textglow 2s ease-in-out infinite alternate;
-}
-.titles:visited {
-  padding-right: 30px;
-  padding-left: 30px;
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  text-decorations: none;
-  font-size: 30px;
-  color: white;
-  animation: textglow 2s ease-in-out infinite alternate;
-}
-.titles:hover {
-  padding-right: 30px;
-  padding-left: 30px;
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  text-decorations: none;
-  font-size: 30px;
-  color: navy;
-  animation: textglow 2s ease-in-out infinite alternate;
-}
-.titles:active {
-  padding-right: 30px;
-  padding-left: 30px;
-  font-family: Noto Sans, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  text-decorations: none;
-  font-size: 30px;
-  color: navy;
   animation: textglow 2s ease-in-out infinite alternate;
 }
 .contactme:link {
